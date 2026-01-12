@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">🚀 A passionate Fullstack Developer from Vietnam</h3>
+<h3 align="center"> A Fullstack Developer from Vietnam</h3>
 
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leanhkhoa7722@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-leanhkhoa7722%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
