@@ -1,10 +1,49 @@
-<div align="center"> <a href="https://github.com/khoale7722"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=250&lines=Hi+There,+I'm+Khoa+Le;Welcome+to+my+Digital+World;&background=https://github.com/user-attachments/assets/e535248f-1fe0-4223-a5c0-c0cc0136e21b" alt="Khoa Le Banner" /> </a> </div><h3 align="center">A Fullstack Developer from Vietnam</h3><p align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leanhkhoa7722@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-leanhkhoa7722%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a> <a href="https://twitter.com/khoale7722" target="_blank"><img src="https://img.shields.io/badge/Twitter-@khoale7722-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> <a href="https://www.facebook.com/khoa.le.961182/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Khoa%20Le-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> </p>
-👨‍💻 About Me
-<p align="center"> <b> I am a developer with a strong foundation in JavaScript, C/C++ & Python and a knack for building beautiful interfaces with React & Vue.js. </b> </p>
-🛠️ Tech Stack
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /> <br>C </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /> <br>Node.js </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" /> <br>Vue.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <br>Docker </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /> <br>MySQL </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /> <br>Unity </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /> <br>VS Code </td> </tr> </table>
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khoale7722&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoale7722&layout=compact&theme=radical" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoale7722&theme=radical" alt="khoale7722" /> </p>
-📫 How to reach me
-<p align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leanhkhoa7722@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-leanhkhoa7722%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://twitter.com/khoale7722" target="_blank"> <img src="https://img.shields.io/badge/Twitter-@khoale7722-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://www.facebook.com/khoa.le.961182/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Khoa%20Le-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> </p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=khoale7722&color=blueviolet" alt="Profile Views" /> </div>
+<div align="center">
+  <a href="https://github.com/khoale7722">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=250&lines=Hi+There,+I'm+Khoa+Le;Welcome+to+my+Digital+World;&background=https://github.com/user-attachments/assets/e535248f-1fe0-4223-a5c0-c0cc0136e21b" alt="Khoa Le Banner" />
+  </a>
+</div>
+
+<h3 align="center"> A Fullstack Developer from Vietnam</h3>
+
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=leanhkhoa7722@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-leanhkhoa7722%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+<a href="https://twitter.com/khoale7722" target="_blank"><img src="https://img.shields.io/badge/Twitter-@khoale7722-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.facebook.com/khoa.le.961182/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Khoa%20Le-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+<br/>
+
+### 👨‍💻 About Me
+
+<p align="center">
+  <b>
+      I am a developer with a strong foundation in JavaScript, C/C++ & Python and a knack for building beautiful interfaces with React & Vue.js.
+  </b>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+  
+  <br /> <br />
+
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>
+
+  <br /> <br />
+
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/></a>
+</p>
