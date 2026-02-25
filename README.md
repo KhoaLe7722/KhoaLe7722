@@ -1,6 +1,16 @@
 <div align="center">
   <a href="https://github.com/khoale7722">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=250&lines=Hi+There,+I'm+Khoa+Le;Welcome+to+my+Digital+World;&background=https://github.com/user-attachments/assets/e535248f-1fe0-4223-a5c0-c0cc0136e21b" alt="Khoa Le Banner" />
+   <img src="https://readme-typing-svg.demolab.com?
+font=Press+Start+2P
+&size=30
+&duration=3000
+&pause=1000
+&color=FFFFFF
+&center=true
+&vCenter=true
+&width=900
+&height=100
+&lines=Hi+There,+I'm+Khoa+Le;Welcome+to+my+Digital+World!" />
   </a>
 </div>
 
