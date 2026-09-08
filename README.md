@@ -75,7 +75,6 @@
 </pre>
 
 <h1 align="center">👋 Hi, I'm Khoa Le</h1>
-<h3 align="center">🌟 A passionate fullstack developer from Viet Nam 🌟</h3>
 
 <p align="center">
   📫 <strong>How to reach me:</strong> <a href="mailto:leanhkhoa7722@gmail.com">leanhkhoa7722@gmail.com</a>
