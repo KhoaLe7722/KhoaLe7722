@@ -132,7 +132,7 @@
 ### ☕ Support Me
 
 <p align="center">
-  If you like what I do, maybe consider buying me a coffee/tea 😊😉
+  If you like what I do, maybe consider buying me a coffee 😊😉
   <br><br>
   <a href="https://buymeacoffee.com/khoale7722" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
